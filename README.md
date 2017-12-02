@@ -29,7 +29,10 @@ Skills: stats, geospatial visualizations
 
 	
 
-Not selected
+tipics Not selected
+
+
+
 	1) UrbanScience literature review
 Deliverables: A web phub)ortal with automatically uploaded papers of US relevance
 Data: list of US papers (on github)
