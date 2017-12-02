@@ -1,7 +1,7 @@
 # The Best Team
 # Analysis of SONYC transmitter data
-Fangshu Lin
-Sunglyoung Kim
-Andrew Nell
+* Fangshu Lin
+* Sunglyoung Kim
+* Andrew Nell
 
 
