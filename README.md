@@ -18,7 +18,7 @@ Skills: data aggregation, some spatial stats
 
 	3) Dublin changes through LIDAR
 Deliverables: automation of change detection and model to identify green areas by growth
-Data: LIDAR data (Debra Leafer’s data) https://drive.google.com/open?id=14wPI3dqB7Q_HEDN3DWeJQ90B1JvbwCh2
+Data: LIDAR data (Debra Leafer’s data) https://drive.google.com/a/nyu.edu/file/d/14wPI3dqB7Q_HEDN3DWeJQ90B1JvbwCh2/view?usp=sharing
 Skills: data manipulation, some image processing, willingness to learn new packages
 
 	4) Flooding NYC
