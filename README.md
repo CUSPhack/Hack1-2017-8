@@ -20,6 +20,7 @@ Skills: data aggregation, some spatial stats
 Deliverables: automation of change detection and model to identify green areas by growth
 Data: LIDAR data (Debra Leafer’s data) https://drive.google.com/a/nyu.edu/file/d/14wPI3dqB7Q_HEDN3DWeJQ90B1JvbwCh2/view?usp=sharing
 Skills: data manipulation, some image processing, willingness to learn new packages
+References: https://drive.google.com/a/nyu.edu/file/d/16ySD2MffZkYu-7BtpzeR49TXuiBuVZdE/view?usp=sharing, https://drive.google.com/a/nyu.edu/file/d/1kpEeU0qmeMCUfWG83WwwY6zxDiAHWuXQ/view?usp=sharing
 
 	4) Flooding NYC
 Deliverables: Model to predict true flooding high flooding risk
