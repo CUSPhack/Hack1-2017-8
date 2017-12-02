@@ -1,5 +1,10 @@
 # Hack1-2017-8
 
+> Notes:
+> - Mapping port on local machine:
+>   `ssh <yourusername>@gw.cusp.nyu.edu -L 2222:compute.cusp.nyu.edu:22`
+> - Uploading data:
+>    `scp <filepath> -P2222 localhost:<your path>`
 
 UrbanScience literature review
 Deliverables: A web phub)ortal with automatically uploaded papers of US relevance
