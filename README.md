@@ -112,4 +112,4 @@ Absolutely no working during the presentations: listen to the presentations your
 
 KEEP CUSP CLEAN! 
 
-![![osprey](osprey/mdslavery.png)](https://github.com/CUSPhack/Hack1_2017-18/tree/master/osprey)
+![osprey](https://github.com/CUSPhack/Hack1_2017-18/tree/master/osprey) ![osprey](osprey/mdslavery.png)
