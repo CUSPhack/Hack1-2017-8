@@ -3,7 +3,7 @@
 # Hack Pitches :
 
 	 Dublin changes through LIDAR
-	 data provided by Prof. D. Leafer, CUSP 
+	 data provided by Prof. D. Laefer, CUSP 
 	 Hack team: @CUSPhack/guinness 
 	
 **Deliverables**: automation of change detection and model to identify green areas by growth in LIDAR data
@@ -19,7 +19,7 @@
 	proposed by Dr. Greg Dobler 
 	Hack team: @CUSPhack/dem_ocratic 
 
-**Deliverables**: Unbias predictor of flooding based on 311 reports and elevation data
+**Deliverables**: Unbiassed predictor of flooding based on 311 reports and elevation data
 
 **Data**: [311 data](https://www.newyorkcares.org/bethesomeone?gclid=CjwKCAiA3o7RBRBfEiwAZMtSCWljoeSWHa_9BUUJRHk92n_Acff-65MrMbjh-7FJc4SJHLlccS8d9RoCBjgQAvD_BwE) - [NYC digital elevation model](https://data.cityofnewyork.us/City-Government/1-foot-Digital-Elevation-Model-DEM-/dpc8-z3jc) LIDAR data in NYC 
 
