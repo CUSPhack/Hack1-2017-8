@@ -95,15 +95,14 @@ Denis Kryashchev
 
 7-8 socialize and CLEAN UP!
 
-PITCHES CHEAT SHEET
+### Rules to submit a pitch
+make sure
+- Data is available and identified
+- Deliverable is clear
+- Skills needed are stated
 
-Pitch: make sure
-Data is available and identified
-Deliverable is clear
-Skills needed are stated
 
-
-### RULES
+### Rules for hackers
 
 Work collaboratively and iteratively, set reasonable goals, spend enough time on the presentation
 
