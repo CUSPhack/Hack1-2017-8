@@ -2,7 +2,8 @@
 
 # Hack Pitches :
 
-	 Dublin changes through LIDAR - data provided by Prof. D. Leafer, CUSP - @CUSPhack/guinness 
+	 ### Dublin changes through LIDAR 
+	 data provided by Prof. D. Leafer, CUSP - @CUSPhack/guinness 
 	
 **Deliverables**: automation of change detection and model to identify green areas by growth in LIDAR data
 
@@ -13,7 +14,8 @@
 
 
 
-	Flooding NYC - proposed by Dr. Greg Dobler @CUSPhack/dem_ocratic 
+	### Flooding NYC 
+	proposed by Dr. Greg Dobler @CUSPhack/dem_ocratic 
 
 **Deliverables**: Unbias predictor of flooding based on 311 reports and elevation data
 
@@ -23,7 +25,8 @@
 
 
 
-	SONYC telemetry data - proposed by Mohit Sharma @CUSPhack/thebestteam
+	### SONYC telemetry data 
+	proposed by Mohit Sharma @CUSPhack/thebestteam
 	
 **Deliverables**: exploration of spatial and temporal correlation of down times of soNYC sensors, real time status map, timelaps map
 
@@ -32,7 +35,8 @@
 **Skills**: geospatial stats, timeseries analysis
 
 
-	sexual assault sentiment analysis - pitched by Ben Steeler @bensteeler - @CUSPhack/metoo  
+	### Sexual assault sentiment analysis 
+	pitched by Ben Steeler @bensteeler - @CUSPhack/metoo  
 
 **Deliverables**: visualization of sentiment from tweets, generation of a relevant word dictionary for further modeling
 
@@ -40,7 +44,8 @@
 
 **Skills**: NLP, web scraping (bto collect historical tweets), API
 
-	Modern day slavery exploration - pitched by Jon Kastelan @jkastelan - @CUSPhack/osprey  
+	### Modern day slavery exploration
+	pitched by Jon Kastelan @jkastelan - @CUSPhack/osprey  
 
 **Deliverables**: map of modern day slavery, correlation analysis with 
 
@@ -54,7 +59,7 @@
 
 
 
-	UrbanScience literature review
+	### UrbanScience literature review
 
 **Deliverables**: A web portal which automatically uploads papers of urban science relevance 
 
@@ -62,7 +67,7 @@
 
 **Skills**: NLP (word association), web scraping
 
-	Unpermitted construction NYC	
+	### Unpermitted construction NYC	
 
 **Deliverables**: model to identify unpermitted construction in NYC
 
