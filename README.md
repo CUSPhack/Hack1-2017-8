@@ -1,7 +1,19 @@
 
 # First 2017-18cohort  CUSP hackathon
+
 December 2nd 2017
 
+**Organizer**: Federica B. Bianco @fedhere
+
+**Facilitators and Mentors**: Brandon Reilly, Mohit Sharma
+
+**Judges:**
+
+Brittney O'Neil
+
+Mohit Sharma
+
+Denis Kryashchev
 
 
 ## Hack Pitches :
@@ -50,37 +62,53 @@ December 2nd 2017
 
 **Data**: tweets (current and historical), news sources
 
-**Skills**: NLP, web scraping (bto collect historical tweets), API
+**Skills**: NLP, web scraping (to collect historical tweets), API
 
 	Modern day slavery exploration
 	pitched by Jon Kastelan @jkastelan 
 	Hack team: @CUSPhack/osprey  
 
-**Deliverables**: map of modern day slavery, correlation analysis with 
+**Deliverables**: map of modern day slavery, correlation analysis 
 
 **Data**: Modern day slavery data (identified by Jon Kastelan), country indicators (public data), historical events that required construction efforts from news sources
 
 **Skills**: stats, geospatial visualizations
 
 	
+## Rules and agenda
 
-## tipics Not selected
+### Schedule
+
+9AM (915) Pitches
+
+945 group self assamble
+
+10-12 hack
+
+12-1230 pizza (while hacking)
+
+1230-4 hack
+
+4-5 prepare presentation
+
+5-7 presentations
+
+7-8 socialize and CLEAN UP!
+
+PITCHES CHEAT SHEET
+
+Pitch: make sure
+Data is available and identified
+Deliverable is clear
+Skills needed are stated
 
 
+### RULES
 
-	UrbanScience literature review
+Work collaboratively and iteratively, set reasonable goals, spend enough time on the presentation
 
-**Deliverables**: A web portal which automatically uploads papers of urban science relevance 
+Presentations and notes must be uploaded on github before you present github organization:  https://github.com/CUSPhack/Hack1_2017-18
 
-**Data**: list of US papers (on github)
+Absolutely no working during the presentations: listen to the presentations your peers give!
 
-**Skills**: NLP (word association), web scraping
-
-	Unpermitted construction NYC	
-
-**Deliverables**: model to identify unpermitted construction in NYC
-
-**Data**: 311 data, illegal dumping fines, violations ([NYC open data](https://opendata.cityofnewyork.us/)) 
-
-**Skills**: data aggregation, some spatial stats
-
+KEEP CUSP CLEAN! 
