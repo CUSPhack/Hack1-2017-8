@@ -112,7 +112,7 @@ Absolutely no working during the presentations: listen to the presentations your
 
 KEEP CUSP CLEAN! 
 
-![Team Osprey, modern day slavery <img src="osprey/mdslavery.png" width="200">](https://github.com/CUSPhack/Hack1_2017-18/tree/master/osprey) 
+![Team Osprey, modern day slavery](https://github.com/CUSPhack/Hack1_2017-18/tree/master/osprey) <img src="osprey/mdslavery.png" width="200">
 
 ![Team Guinnes, vegetation from LIDAR time series](https://github.com/CUSPhack/Hack1_2017-18/blob/master/Guinness/) <img src="Guinness/guinnesLidaar.png" width="200">
 
