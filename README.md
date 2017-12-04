@@ -114,4 +114,3 @@ KEEP CUSP CLEAN!
 
 ## presentations:
 
-![![modern day slavery](osprey/mdslavery.png)](https://github.com/CUSPhack/Hack1_2017-18/blob/master/osprey/ospreys%20prez.pptx)
