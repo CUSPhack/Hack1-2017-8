@@ -112,13 +112,13 @@ Absolutely no working during the presentations: listen to the presentations your
 
 KEEP CUSP CLEAN! 
 
-![Team Osprey, modern day slavery](https://github.com/CUSPhack/Hack1_2017-18/tree/master/osprey) ![osprey](osprey/mdslavery.png)
+![Team Osprey, modern day slavery](https://github.com/CUSPhack/Hack1_2017-18/tree/master/osprey) <img src="osprey/mdslavery.png" width="200">
 
-![Team Guinnes, vegetation from LIDAR time series](https://github.com/CUSPhack/Hack1_2017-18/blob/master/Guinness/) ![Guinnes](Guinness/guinnesLidaar.png)
+![Team Guinnes, vegetation from LIDAR time series](https://github.com/CUSPhack/Hack1_2017-18/blob/master/Guinness/) <img src="Guinness/guinnesLidaar.png" width="200">
 
-![Team dem_ocratic, NYC flooding assessment](https://github.com/CUSPhack/Hack1_2017-18/blob/master/FloodingNYC/) ![FloodingNYC](FloodingNYC/floodingNYC.png)
+![Team dem_ocratic, NYC flooding assessment](https://github.com/CUSPhack/Hack1_2017-18/blob/master/FloodingNYC/) <img src="FloodingNYC/floodingNYC.png" width="200">
 
-![Team MeeToo, sentiment analysis about sexual assault](https://github.com/CUSPhack/Hack1_2017-18/blob/master/MeToo/) ![FloodingNYC](MeToo/metoo.png)
+![Team MeeToo, sentiment analysis about sexual assault](https://github.com/CUSPhack/Hack1_2017-18/blob/master/MeToo/) <img src="MeToo/metoo.png" width="200">
 
 ![Team theBestTeam, analysis of reliability of SoNYC sensors](https://github.com/CUSPhack/Hack1_2017-18/blob/master/BEST_SONYC/) 
 
