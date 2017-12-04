@@ -1,5 +1,5 @@
 
-# First 2017-18cohort  CUSP hackathon
+# First 2017/18-cohort  CUSP hackathon
 
 December 2nd 2017
 
