@@ -55,12 +55,18 @@
 
 
 	UrbanScience literature review
-Deliverables: A web phub)ortal with automatically uploaded papers of US relevance
-Data: list of US papers (on github)
-Skills: NLP (word association), web scraping
+
+**Deliverables**: A web portal which automatically uploads papers of urban science relevance 
+
+**Data**: list of US papers (on github)
+
+**Skills**: NLP (word association), web scraping
 
 	Unpermitted construction NYC	
-Deliverables: model to identify unpermitted construction in NYC
-Data: 311 data, illegal dumping fines, violations (NYC data) 
-Skills: data aggregation, some spatial stats
+
+**Deliverables**: model to identify unpermitted construction in NYC
+
+**Data**: 311 data, illegal dumping fines, violations ([NYC open data](https://opendata.cityofnewyork.us/)) 
+
+**Skills**: data aggregation, some spatial stats
 
