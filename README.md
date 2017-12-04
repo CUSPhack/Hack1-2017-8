@@ -1,6 +1,10 @@
-# Hack1-2017-8
 
-# Hack Pitches :
+# First 2017-18cohort  CUSP hackathon
+December 2nd 2017
+
+
+
+## Hack Pitches :
 
 	 Dublin changes through LIDAR
 	 data provided by Prof. D. Laefer, CUSP 
@@ -27,13 +31,13 @@
 
 
 
-	SONYC telemetry data 
+	SoNYC telemetry data 
 	proposed by Mohit Sharma 
 	Hack team: @CUSPhack/thebestteam
 	
 **Deliverables**: exploration of spatial and temporal correlation of down times of soNYC sensors, real time status map, timelaps map
 
-**Data**: SNNYC temelmetry location and time series data provided by  Mohit
+**Data**: SoNYC telemetry location and time series data provided by Mohit
 
 **Skills**: geospatial stats, timeseries analysis
 
