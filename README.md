@@ -114,4 +114,4 @@ KEEP CUSP CLEAN!
 
 ## presentations:
 
-![[![picture](osprey/mdslavery.png)](https://github.com/CUSPhack/Hack1_2017-18/blob/master/osprey/ospreys%20prez.pptx)
+![![picture](osprey/mdslavery.png)](https://github.com/CUSPhack/Hack1_2017-18/blob/master/osprey/ospreys%20prez.pptx)
