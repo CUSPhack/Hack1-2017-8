@@ -2,7 +2,7 @@
 
 # Hack Pitches :
 
-	 ### Dublin changes through LIDAR 
+	 ** Dublin changes through LIDAR **
 	 data provided by Prof. D. Leafer, CUSP - @CUSPhack/guinness 
 	
 **Deliverables**: automation of change detection and model to identify green areas by growth in LIDAR data
